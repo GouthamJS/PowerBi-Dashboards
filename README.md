@@ -1,6 +1,6 @@
-# Interactive Dashboards Using Power BI
+# PowerBi-Dashboards (Interactive Dashboard Using Power BI)
 
-Welcome to the Interactive Dashboards Using Power BI repository! 🎨📊 This repository showcases visually appealing and interactive dashboards created using Power BI, designed to extract meaningful insights from datasets across various domains.
+Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) repository! 🎨📊 This repository showcases visually appealing and interactive dashboards created using Power BI, designed to extract meaningful insights from datasets across various domains.
 
 ## Dataset used
 1. Ecommerce Sale- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">Dataset</a>
@@ -18,23 +18,26 @@ Welcome to the Interactive Dashboards Using Power BI repository! 🎨📊 This r
 - Analyze data trends, insights, and key performance indicators.
 
 
-<!-- - Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>-->
+<!-- - Dashboard Interaction <a href="https:"</a>-->
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+  
 
 ## Dashboard
 
 ## 1.E-commerce Sales Dashboard
 **Description:** Provides an in-depth analysis of sales performance for an e-commerce platform.
+
 **Key Features:**
   - Total sales, profit, and quantity metrics.
   - Regional performance breakdown by sales amount.
   - Product category-wise distribution and profitability analysis.
   - Payment mode trends and monthly profit tracking.
+    
 **Objective:** To assist businesses in identifying key growth opportunities and areas of improvement.
 
    ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Dashboard%20image.png)
