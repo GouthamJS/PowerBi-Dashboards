@@ -28,10 +28,19 @@ Welcome to the Interactive Dashboards Using Power BI repository! 🎨📊 This r
 
 ## Dashboard
 
-1. ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Dashboard%20image.png)
+## 1.E-commerce Sales Dashboard
+**Description:** Provides an in-depth analysis of sales performance for an e-commerce platform.
+**Key Features:**
+  - Total sales, profit, and quantity metrics.
+  - Regional performance breakdown by sales amount.
+  - Product category-wise distribution and profitability analysis.
+  - Payment mode trends and monthly profit tracking.
+**Objective:** To assist businesses in identifying key growth opportunities and areas of improvement.
+
+   ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Dashboard%20image.png)
 
 ## Tools Used
-- Power BI: For designing and building dashboards.
-- SQL: For querying and managing data from databases.
-- Python: For data preprocessing and analysis.
-- Power Query: For data transformation and preparation.
+**Power BI:** For designing and building dashboards.
+**SQL:** For querying and managing data from databases.
+**Python:** For data preprocessing and analysis.
+**Power Query:** For data transformation and preparation.
