@@ -1,9 +1,9 @@
 # Interactive Dashboards Using Power BI
-## Project Objective
+
 Welcome to the Interactive Dashboards Using Power BI repository! 🎨📊 This repository showcases visually appealing and interactive dashboards created using Power BI, designed to extract meaningful insights from datasets across various domains.
 
 ## Dataset used
-1. - <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">Dataset</a>
+1. Ecommerce Sale- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">Dataset</a>
 
 ## About the Repository
 - This repository is dedicated to showcasing interactive Power BI dashboards that:
@@ -41,6 +41,9 @@ Welcome to the Interactive Dashboards Using Power BI repository! 🎨📊 This r
 
 ## Tools Used
 **Power BI:** For designing and building dashboards.
+
 **SQL:** For querying and managing data from databases.
+
 **Python:** For data preprocessing and analysis.
+
 **Power Query:** For data transformation and preparation.
