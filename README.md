@@ -4,6 +4,7 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 
 ## 📊Dataset used
 1. E-commerce Sales- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">Dataset</a>
+2. HR-Analytics- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/Employee%20Dataset.csv">Dataset</a>
 
 ## ℹ️About the Repository
 - This repository is dedicated to showcasing interactive Power BI dashboards that:
@@ -42,6 +43,20 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 
    ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Dashboard%20image.png)
    E-commerce Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Ecommerce%20Sales.pbit">Download</a>
+
+## 2.HR-Analytics Dashboard
+**Description:** An interactive HR analytics dashboard designed to visualize and analyze employee attrition data effectively.
+
+**Key Features:**
+  - Employee attrition analysis based on education, salary, age, and job role.
+  - Insightful metrics such as attrition rate, average salary, and average age.
+  - Drill-down capabilities for department-wise attrition trends.
+  - Clear visualization through pie charts, bar charts, and line graphs.
+    
+**Objective:** To identify and understand key patterns and factors influencing employee attrition, enabling data-driven decisions for workforce management.
+
+![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/HR%20Dashboard.png)
+   E-commerce Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/HR%20Analytics.pbit">Download</a>
 
 ## 🧰Tools Used
 **Power BI:** For designing and building dashboards.
