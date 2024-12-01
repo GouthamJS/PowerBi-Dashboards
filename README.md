@@ -27,7 +27,7 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
   
 
-## 📈Dashboard📈
+## 📈Dashboard
 
 ## 1.E-commerce Sales Dashboard
 **Description:** Provides an in-depth analysis of sales performance for an e-commerce platform.
