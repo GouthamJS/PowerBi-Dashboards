@@ -3,7 +3,7 @@
 Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) repository! 🎨📊 This repository showcases visually appealing and interactive dashboards created using Power BI, designed to extract meaningful insights from datasets across various domains.
 
 ## Dataset used📊
-1. Ecommerce Sale- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">Dataset</a>
+1. E-commerce Sales- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">Dataset</a>
 
 ## About the Repositoryℹ️
 - This repository is dedicated to showcasing interactive Power BI dashboards that:
