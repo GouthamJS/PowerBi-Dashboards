@@ -2,16 +2,16 @@
 
 Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) repository! 🎨📊 This repository showcases visually appealing and interactive dashboards created using Power BI, designed to extract meaningful insights from datasets across various domains.
 
-## Dataset used
+## Dataset used📊
 1. Ecommerce Sale- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">Dataset</a>
 
-## About the Repository
+## About the Repositoryℹ️
 - This repository is dedicated to showcasing interactive Power BI dashboards that:
 - Simplify Data Analysis: Make complex datasets easy to interpret.
 - Provide Actionable Insights: Highlight key trends and metrics for data-driven decision-making.
 - Engage Stakeholders: Use compelling visuals to communicate findings effectively.
 
-## How to Use
+## How to Use🛠️
 - Clone or download this repository.
 - Open the Power BI .pbix files included in the repository.
 - Interact with the dashboards using slicers, filters, and other Power BI features.
@@ -20,14 +20,14 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 
 <!-- - Dashboard Interaction <a href="https:"</a>-->
 
-## Process
+## Process🔄
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
   
 
-## Dashboard
+## Dashboard📈
 
 ## 1.E-commerce Sales Dashboard
 **Description:** Provides an in-depth analysis of sales performance for an e-commerce platform.
@@ -43,7 +43,7 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
    ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Dashboard%20image.png)
    E-commerce Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Ecommerce%20Sales.pbit">Download</a>
 
-## Tools Used
+## Tools Used🧰
 **Power BI:** For designing and building dashboards.
 
 **SQL:** For querying and managing data from databases.
