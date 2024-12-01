@@ -41,6 +41,7 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 **Objective:** To assist businesses in identifying key growth opportunities and areas of improvement.
 
    ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Dashboard%20image.png)
+   Dashboard in PowerBi- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">E-commerce Sales</a>
 
 ## Tools Used
 **Power BI:** For designing and building dashboards.
