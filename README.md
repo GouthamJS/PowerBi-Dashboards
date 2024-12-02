@@ -2,9 +2,6 @@
 
 Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) repository! 🎨📊 This repository showcases visually appealing and interactive dashboards created using Power BI, designed to extract meaningful insights from datasets across various domains.
 
-## 📊Dataset used
-1. E-commerce Sales- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">Dataset</a>
-2. HR-Analytics- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/Employee%20Dataset.csv">Dataset</a>
 
 ## ℹ️About the Repository
 - This repository is dedicated to showcasing interactive Power BI dashboards that:
@@ -27,6 +24,10 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
   
+## 📊Dataset used
+1. E-commerce Sales- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">Dataset</a>
+2. HR-Analytics- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/Employee%20Dataset.csv">Dataset</a>
+3.SuperStore - <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/SuperStore-Sales/Datasets">Dataset</a>
 
 ## 📈Dashboard
 
@@ -41,6 +42,7 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
     
 **Objective:** To assist businesses in identifying key growth opportunities and areas of improvement.
 
+  ###Dashboard###
    ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Dashboard%20image.png)
    E-commerce Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Ecommerce%20Sales.pbit">Download</a>
 
@@ -55,8 +57,28 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
     
 **Objective:** To identify and understand key patterns and factors influencing employee attrition, enabling data-driven decisions for workforce management.
 
+ ###Dashboard###
 ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/HR%20Dashboard.png)
    HR-Analytics Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/HR%20Analytics.pbit">Download</a>
+
+## 3.Super-Store Sales Dashboard
+**Description:** An interactive HR analytics dashboard designed to visualize and analyze employee attrition data effectively.
+
+**Key Features:**
+  - Create visually appealing and intuitive dashboards with interactive visualizations and filters to enable users to explore data at various levels of detail.
+  - Analyze sales performance and present insights through charts to evaluate the effectiveness of sales strategies.
+  - Utilize historical sales data and time series analysis to predict sales trends for the next 15 days.
+  - Deliver actionable insights and recommendations that drive strategic decisions aligned with growth, efficiency, and customer satisfaction goals.
+  - The dashboard leverages historical sales data and predictive analytics to forecast sales trends for the next 15 days, providing actionable insights for inventory and resource planning.
+  - Highlights top-performing product categories with forecasted sales, enabling businesses to identify focus areas for maximizing revenue growth.
+    
+**Objective:** To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+
+ ###Dashboard###
+![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/SuperStore-Sales/SS%20Dashboard.png)
+ ###Forecast###
+![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/SuperStore-Sales/SS%20Forecast.png)
+   Super-Store Sales Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/SuperStore-Sales/Super-Store%20Sales%20Dashboard.pbit">Download</a>
 
 ## 🧰Tools Used
 **Power BI:** For designing and building dashboards.
