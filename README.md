@@ -42,7 +42,7 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
     
 **Objective:** To assist businesses in identifying key growth opportunities and areas of improvement.
 
-  ###Dashboard###
+  ###Dashboard
    ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Dashboard%20image.png)
    E-commerce Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Ecommerce%20Sales.pbit">Download</a>
 
@@ -57,7 +57,7 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
     
 **Objective:** To identify and understand key patterns and factors influencing employee attrition, enabling data-driven decisions for workforce management.
 
- ###Dashboard###
+ ###Dashboard
 ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/HR%20Dashboard.png)
    HR-Analytics Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/HR%20Analytics.pbit">Download</a>
 
@@ -74,7 +74,7 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
     
 **Objective:** To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
- ###Dashboard###
+ ###Dashboard
 ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/SuperStore-Sales/SS%20Dashboard.png)
  ###Forecast###
 ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/SuperStore-Sales/SS%20Forecast.png)
