@@ -44,8 +44,11 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 **Objective:** To provide actionable insights into mobile sales performance through an interactive and visually engaging dashboard.
 
   **Dashboard**
+   **Sales Dashboard**
    ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/MSDashboard.png)
+   **MTD Report**
    ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/MTD%20Report%20Dashboard.png)
+   **Same Period Last Year Report**
    ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/Last%20Year%20Sales%20Report.png)
    Mobile Sales Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/Mobile%20Sales%20Dashboard.pbit">Download</a>
 
