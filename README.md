@@ -24,13 +24,13 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
   
-## 📊Dataset used
+## 📊Datasets used
 1. Mobile Sales- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/Mobile%20Sales%20Data.xlsx">Dataset</a>
 2. E-commerce Sales- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">Dataset</a>
 3. HR-Analytics- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/Employee%20Dataset.csv">Dataset</a>
 4. SuperStore- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/SuperStore-Sales/Datasets">Dataset</a>
 
-## 📈Dashboard
+## 📈Dashboards
 
 ## 1.Mobile Sales Dashboard
 **Description:** An advanced mobile sales dashboard with detailed reports i.e Sales Dashboard, MTD Report, Same Period Last Year Report and interactive navigation buttons.
