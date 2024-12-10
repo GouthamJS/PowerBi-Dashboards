@@ -25,13 +25,31 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
   
 ## 📊Dataset used
-1. E-commerce Sales- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">Dataset</a>
-2. HR-Analytics- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/Employee%20Dataset.csv">Dataset</a>
-3. SuperStore- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/SuperStore-Sales/Datasets">Dataset</a>
+1. Mobile Sales- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/Mobile%20Sales%20Data.xlsx">Dataset</a>
+2. E-commerce Sales- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/Ecommerce%20Sales/Dataset">Dataset</a>
+3. HR-Analytics- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/Employee%20Dataset.csv">Dataset</a>
+4. SuperStore- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/tree/main/SuperStore-Sales/Datasets">Dataset</a>
 
 ## 📈Dashboard
 
-## 1.E-commerce Sales Dashboard
+## 1.Mobile Sales Dashboard
+**Description:** An advanced mobile sales dashboard with detailed reports i.e Sales Dashboard, MTD Report, Same Period Last Year Report and interactive navigation buttons.
+
+**Key Features:**
+  - Includes advanced dashboards, MTD (Month-to-Date) reports, and comparative reports for the same period last year.
+  - Offers charts and maps, including sales by city, month, and product model, with visual insights into payment methods and ratings.
+  - Features buttons for easy navigation between dashboard pages and monthly insights.
+  - Allows filtering by mobile model, payment method, brand, and time frames.
+    
+**Objective:** To provide actionable insights into mobile sales performance through an interactive and visually engaging dashboard.
+
+  **Dashboard**
+   ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/MSDashboard.png)
+   ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/MTD%20Report%20Dashboard.png)
+   ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/Last%20Year%20Sales%20Report.png)
+   Mobile Sales Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/Mobile%20Sales%20Dashboard.pbit">Download</a>
+
+## 2.E-commerce Sales Dashboard
 **Description:** Provides an in-depth analysis of sales performance for an e-commerce platform.
 
 **Key Features:**
@@ -46,7 +64,7 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
    ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Dashboard%20image.png)
    E-commerce Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Ecommerce%20Sales.pbit">Download</a>
 
-## 2.HR-Analytics Dashboard
+## 3.HR-Analytics Dashboard
 **Description:** An interactive HR analytics dashboard designed to visualize and analyze employee attrition data effectively.
 
 **Key Features:**
@@ -61,7 +79,7 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/HR%20Dashboard.png)
    HR-Analytics Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/HR%20Analytics.pbit">Download</a>
 
-## 3.Super-Store Sales Dashboard
+## 4.Super-Store Sales Dashboard
 **Description:** An interactive HR analytics dashboard designed to visualize and analyze employee attrition data effectively.
 
 **Key Features:**
