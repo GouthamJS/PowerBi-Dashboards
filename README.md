@@ -25,13 +25,13 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## 🧰Tools Used
-**Power BI:** For designing and building dashboards.
+- **Power BI:** For designing and building dashboards.
 
-**SQL:** For querying and managing data from databases.
+- **SQL:** For querying and managing data from databases.
 
-**Python:** For data preprocessing and analysis.
+- **Python:** For data preprocessing and analysis.
 
-**Power Query:** For data transformation and preparation.
+- **Power Query:** For data transformation and preparation.
   
 ## 📊Datasets used
 1. Mobile Sales- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/Mobile%20Sales%20Data.xlsx">Dataset</a>
