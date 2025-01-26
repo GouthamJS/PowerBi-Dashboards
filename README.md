@@ -24,7 +24,7 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-  ## 🧰Tools Used
+## 🧰Tools Used
 **Power BI:** For designing and building dashboards.
 
 **SQL:** For querying and managing data from databases.
