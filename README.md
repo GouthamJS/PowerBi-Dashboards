@@ -23,6 +23,15 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+  ## 🧰Tools Used
+**Power BI:** For designing and building dashboards.
+
+**SQL:** For querying and managing data from databases.
+
+**Python:** For data preprocessing and analysis.
+
+**Power Query:** For data transformation and preparation.
   
 ## 📊Datasets used
 1. Mobile Sales- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/Mobile%20Sales%20Data.xlsx">Dataset</a>
@@ -102,11 +111,4 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/SuperStore-Sales/SS%20Forecast.png)
    Super-Store Sales Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/SuperStore-Sales/Super-Store%20Sales%20Dashboard.pbit">Download</a>
 
-## 🧰Tools Used
-**Power BI:** For designing and building dashboards.
 
-**SQL:** For querying and managing data from databases.
-
-**Python:** For data preprocessing and analysis.
-
-**Power Query:** For data transformation and preparation.
