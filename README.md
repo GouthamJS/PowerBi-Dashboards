@@ -42,27 +42,37 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
 
 ## 📈Dashboards
 
-## 1.LinkedIn Job Analysis Dashboard
-**Description:** An interactive and visually rich dashboard providing insights into LinkedIn job trends, including job openings, applicants, company preferences, required skills, and geographic distribution.
+## 1.E-commerce Sales Dashboard
+**Description:** Provides an in-depth analysis of sales performance for an e-commerce platform.
 
 **Key Features:**
-  - Comprehensive Metrics: Displays total companies, job openings, and applicants at a glance.
-  - Geographic Analysis: Highlights job openings and activity across regions on an interactive map.
-  - Skill Insights: Visualizes in-demand skills (e.g., ReactJS, SQL, AI) with charts showing the number of companies requiring each skill.
-  - Company-Specific Data: Bar charts show the number of job openings and applicants for top companies, such as IDESLABS, Wipro, and Infosys.
-  - Job Involvement Analysis: Pie charts categorize jobs by involvement levels, such as associate and entry-level roles.
-  - Hiring Insights: Lists top hiring companies, displaying their corresponding hiring numbers.
-  - Filtering Options: Dropdown menus enable filtering by company name, industry, and designation.
-  - Visual Appeal: Includes interactive visualizations like pie charts, bar graphs, and maps for intuitive analysis.
+  - Total sales, profit, and quantity metrics.
+  - Regional performance breakdown by sales amount.
+  - Product category-wise distribution and profitability analysis.
+  - Payment mode trends and monthly profit tracking.
     
-**Objective:** To analyze LinkedIn job trends, helping job seekers and employers make informed decisions by providing actionable insights into hiring trends, skill demand, and job availability.
+**Objective:** To assist businesses in identifying key growth opportunities and areas of improvement.
 
   **Dashboard**
-  
-   **Sales Dashboard**
-   ![Screenshot (495)](https://github.com/GouthamJS/Linkedin-JobAnalysis/blob/main/Data%20Visualization/LinkedIn%20Job%20Analysis%20Dashboard.png)
+   ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Dashboard%20image.png)
+   E-commerce Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Ecommerce%20Sales.pbit">Download</a>
 
-## 2.Mobile Sales Dashboard
+## 2.HR-Analytics Dashboard
+**Description:** An interactive HR analytics dashboard designed to visualize and analyze employee attrition data effectively.
+
+**Key Features:**
+  - Employee attrition analysis based on education, salary, age, and job role.
+  - Insightful metrics such as attrition rate, average salary, and average age.
+  - Drill-down capabilities for department-wise attrition trends.
+  - Clear visualization through pie charts, bar charts, and line graphs.
+    
+**Objective:** To identify and understand key patterns and factors influencing employee attrition, enabling data-driven decisions for workforce management.
+
+ **Dashboard**
+![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/HR%20Dashboard.png)
+   HR-Analytics Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/HR%20Analytics.pbit">Download</a>
+
+## 3.Mobile Sales Dashboard
 **Description:** An advanced mobile sales dashboard with detailed reports i.e Sales Dashboard, MTD Report, Same Period Last Year Report and interactive navigation buttons.
 
 **Key Features:**
@@ -83,37 +93,8 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
    ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/Last%20Year%20Sales%20Report.png)
    Mobile Sales Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Mobile%20Sales/Mobile%20Sales%20Dashboard.pbit">Download</a>
 
-## 3.E-commerce Sales Dashboard
-**Description:** Provides an in-depth analysis of sales performance for an e-commerce platform.
 
-**Key Features:**
-  - Total sales, profit, and quantity metrics.
-  - Regional performance breakdown by sales amount.
-  - Product category-wise distribution and profitability analysis.
-  - Payment mode trends and monthly profit tracking.
-    
-**Objective:** To assist businesses in identifying key growth opportunities and areas of improvement.
-
-  **Dashboard**
-   ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Dashboard%20image.png)
-   E-commerce Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/Ecommerce%20Sales/Ecommerce%20Sales.pbit">Download</a>
-
-## 4.HR-Analytics Dashboard
-**Description:** An interactive HR analytics dashboard designed to visualize and analyze employee attrition data effectively.
-
-**Key Features:**
-  - Employee attrition analysis based on education, salary, age, and job role.
-  - Insightful metrics such as attrition rate, average salary, and average age.
-  - Drill-down capabilities for department-wise attrition trends.
-  - Clear visualization through pie charts, bar charts, and line graphs.
-    
-**Objective:** To identify and understand key patterns and factors influencing employee attrition, enabling data-driven decisions for workforce management.
-
- **Dashboard**
-![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/HR%20Dashboard.png)
-   HR-Analytics Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/HR%20Analytics/HR%20Analytics.pbit">Download</a>
-
-## 5.Super-Store Sales Dashboard
+## 4.Super-Store Sales Dashboard
 **Description:** An interactive HR analytics dashboard designed to visualize and analyze employee attrition data effectively.
 
 **Key Features:**
@@ -131,5 +112,26 @@ Welcome to the PwerBi-Dashboards (Interactive Dashboard Using Power BI) reposito
  **Forecast**
 ![Screenshot (495)](https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/SuperStore-Sales/SS%20Forecast.png)
    Super-Store Sales Dashboard- <a href="https://github.com/GouthamJS/PowerBi-Dashboards/blob/main/SuperStore-Sales/Super-Store%20Sales%20Dashboard.pbit">Download</a>
+
+
+## 5.LinkedIn Job Analysis Dashboard
+**Description:** An interactive and visually rich dashboard providing insights into LinkedIn job trends, including job openings, applicants, company preferences, required skills, and geographic distribution.
+
+**Key Features:**
+  - Comprehensive Metrics: Displays total companies, job openings, and applicants at a glance.
+  - Geographic Analysis: Highlights job openings and activity across regions on an interactive map.
+  - Skill Insights: Visualizes in-demand skills (e.g., ReactJS, SQL, AI) with charts showing the number of companies requiring each skill.
+  - Company-Specific Data: Bar charts show the number of job openings and applicants for top companies, such as IDESLABS, Wipro, and Infosys.
+  - Job Involvement Analysis: Pie charts categorize jobs by involvement levels, such as associate and entry-level roles.
+  - Hiring Insights: Lists top hiring companies, displaying their corresponding hiring numbers.
+  - Filtering Options: Dropdown menus enable filtering by company name, industry, and designation.
+  - Visual Appeal: Includes interactive visualizations like pie charts, bar graphs, and maps for intuitive analysis.
+    
+**Objective:** To analyze LinkedIn job trends, helping job seekers and employers make informed decisions by providing actionable insights into hiring trends, skill demand, and job availability.
+
+  **Dashboard**
+  
+   **Sales Dashboard**
+   ![Screenshot (495)](https://github.com/GouthamJS/Linkedin-JobAnalysis/blob/main/Data%20Visualization/LinkedIn%20Job%20Analysis%20Dashboard.png)
 
 
